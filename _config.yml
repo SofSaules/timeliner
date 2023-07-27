@@ -7,8 +7,8 @@ author: Sofía Saulés
 # Show a link at the top of your timeline to your main personal site
 # Comment this out to disable
 personal_site:
-  url: 
-  title: SofSaules.gg
+ url: https://neil.gg
+  title: neil.gg
 # show today marker at end of timeline
 show_today: true
 
