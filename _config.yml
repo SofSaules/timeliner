@@ -16,19 +16,20 @@ show_today: true
 # Each period has a list of events formatted as `- date: title`. If you don't want to have period dividers, leave out the name field.
 periods:
   - events:
-    - Noviembre 1992: "Nací en la, no tan concurrida hasta el momento, CDMX, antes DF."
+    - Noviembre 1992: "Nací en la no tan concurrida hasta el momento CDMX, antes DF."
     - Marzo 1994: "Nació mi compañerito de aventuras y de la vida, mi hermano."
     - Agosto 1999: "Entré a la primaria, un niño me preguntó en qué año había nacido, le dije que en 1998 y se burló de mí. Fue la primera vez que sentí vergüenza, no sabía nada de la vida ni de fechas."
   - name: 2000's
    - events:
-    - Abril 2004: "Una niña se burló del color de mi piel. El bullying de la primaria... sin duda es uno de los que más secuelas deja"
+    - Abril 2003: "Pasé la mitad del ciclo escolar sola. Tenía 10 años. Me sentía muy triste. El bullying siempre ha existido, pero no se le daba la importancia que ahora tiene."
     - Diciembre 2005: "Falleció el hermano de mi mamá, tenía 30 años. Comprendí lo finita que era la vida."
-    - Agosto 2008: "Entré a la preparatoria, mi primer logro. Mi prima no se quedó entonces en la familia optaron por no felicitarme o hacerlo en "secreto"."
+    - Agosto 2008: "Entré a la preparatoria, mi primer logro. Mi prima no se quedó entonces en la familia optaron por no felicitarme o hacerlo en "secreto". "
+    - Enero 2009: "Me enamoré por primera vez... de manera imprudente e impulsiva, como sólo un adolescente sabe hacerlo. "
  
   - name: 2010's
     events:
-    - Agosto 2011: "Entré a la Universidad a estudiar Biología, aunque yo quería estudiar Letras. En realidad estaba indecisa."
-    - Diciembre 2012: "Tuve mi primera relación significativa, creí que ahí iba a estar por siempre, pero sólo fueron cuatro años y medio."
+    - Agosto 2011: "Entré a la Universidad a estudiar Biología, aunque yo quería estudiar Letras. En realidad estaba indecisa. ¿Quién a sus 18 años sabe qué quiere hacer el resto de su vida? seguro muy pocos"
+    - Diciembre 2012: "Tuve mi primera relación significativa, creí que ahí iba a estar por siempre, pero sólo fueron cuatro años."
     - Julio 2016: "Falleció mi abuelo, el padre de mi padre. Qué dificil es perder a alguien a quien siempre vas a querer y nunca pudiste abrazar"
     - Febrero 2017: "Competí en mi primer triatlón, ni siquiera sabía usar los cambios de la bicicleta. El deporte comenzaba a ser una prioridad en mi vida."
     - Noviembre 2017: "Me titulé. Ya quería cerrar ese ciclo"
